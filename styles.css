@@ -1,0 +1,13 @@
+ h1 {
+        color:green;
+        font-family: Arial, Helvetica, sans-serif;
+        border-bottom: 2px solid #059669;
+    }  
+    h2{
+            color: #2563eb;
+            font-size: 32px;
+            text-align: left;
+            background-color: #e0f2fe;
+            padding: 20px;
+            border-radius: 10px;
+        }

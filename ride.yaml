@@ -1,0 +1,27 @@
+person: 
+  name: Wole
+  age: 18
+  city: Lagos
+  country: Nigeria
+  occupation: Student
+  skills:
+    - HTML
+    - CSS
+    - JavaScript
+  hobbies:
+    - Coding
+    - Reading
+    - Traveling
+  education:
+    degree: High School Diploma
+    institution: ABC High School
+    graduation_year: 2023
+  contact:
+    email: wole@example.com
+    phone: +234 123 456 7890
+    linkedin: linkedin.com/in/wole
+  github: github.com/wole
+  portfolio: www.woleportfolio.com
+  bio: >
+    Wole is a passionate student from Lagos, Nigeria, who loves coding and exploring new technologies. With skills in HTML, CSS, and JavaScript, Wole is eager to build innovative web applications and contribute to the tech community.
+    
